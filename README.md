@@ -9,9 +9,6 @@ I am a computer science and engineer, coding since 2002 and working at @SAP. I m
 - 👨‍💻 **SAP & Java & ABAP Developer**  
   Specializing in clean-core architecture, performance tuning, and parallel processing.
   
-- 📱 **Mobile App Developer**  
-  Building cross-platform apps using React Native, focused on user experience and performance.
-
 - 🤖 **AI & Automation Enthusiast**  
   Working on AI-powered solutions including RAG apps, vector databases, and LLM optimization.
 
