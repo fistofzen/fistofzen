@@ -43,8 +43,7 @@ I am a computer science and engineer, coding since 2002 and working at @SAP. I m
 
 ## 🔧 Tech Stack
 
-- 💾 SAP ABAP, BTP, RAP, CDS
-- ⚛️ React Native, TypeScript
+- 💾 JAVA, SAP ABAP, javascript
 - 🔍 LangChain, ChromaDB, OpenAI APIs
 - 🐳 Docker, Python, FastAPI
 - ☁️ AWS, Vercel, Firebase
