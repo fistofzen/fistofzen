@@ -20,6 +20,27 @@ I am a computer science and engineer, coding since 2002 working at @SAP. I mostl
 
 ---
 
+## 📚 Academic Contributions
+
+- 🏅 **Selected as One of the 100 Best Papers of 2010**  
+  *"Exact and Metaheuristic Approaches for Optimizing the Operations of Chip Mounter Machines"*, MACMESE '10.
+
+- 📝 **META 2010 — Djerba Island, Tunisia**  
+  Demirkale H., Duman E., Alkaya A.  
+  *"Optimizing the Operations of Chip Shooter Machines"*, 3rd International Conference on Metaheuristics and Nature Inspired Computing.
+
+- 📝 **CISIM 2010 — Kraków, Poland**  
+  Demirkale H., Duman E., Alkaya A.  
+  *"Exact and Metaheuristic Approaches for Optimizing the Operations of Chip Mounter Machines"*, International Conference on Computer Information Systems and Industrial Management Applications.
+
+- 🔬 **TÜBİTAK Research Project ID 108M198**  
+  Contributed to the project:  
+  *“Elektronik Dizgi İşlemlerinin Eniyilenmesi ve Değişken Maliyetli Seyyar Satıcı Problemi”*  
+  (Optimization of Electronic Assembly Processes and Variable Cost Traveling Salesman Problem)
+
+
+---
+
 ## 🔧 Tech Stack
 
 - 💾 SAP ABAP, BTP, RAP, CDS
