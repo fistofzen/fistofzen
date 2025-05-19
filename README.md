@@ -1,6 +1,6 @@
 # Huseyin Demirkale
 
-I am a computer science and engineer, coding since 2002 working at @SAP. I mostly code in Java, ABAP, javascript and Python .
+I am a computer science and engineer, coding since 2002 and working at @SAP. I mostly code in Java, ABAP, javascript and Python .
 
 ---
 
